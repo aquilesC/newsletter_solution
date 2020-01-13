@@ -1,0 +1,5 @@
+[run]
+include = newsletter_solution/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
